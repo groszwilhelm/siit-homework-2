@@ -11,5 +11,5 @@ In the form:
 - When you click on a label the corresponding input is **toggled or focused**
 - Earth is **selected by default**
 - The reset button **actually empties the form**
-- The `Ask away` button submits the form to the current page but the URL should now contain the data entered in the form, like this: `index.html?name=Paul+Negoescu&email=paul.negoescu%40email.com&planet=saturn&agree=on`
+- The `Ask away` button submits the form to the current page but the URL should now contain the data entered in the form, like this: `index.html?name=test&email=test%40email.com&planet=saturn&agree=on`
 - Name, email and the agreement are required and the email is validated
